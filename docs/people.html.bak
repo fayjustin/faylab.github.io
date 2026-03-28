@@ -1,0 +1,147 @@
+<html>
+<head>
+
+<title>Fay Lab Homepage</title>
+
+<style type="text/css"> <!--
+
+BODY {font-size: 14pt; color: black}
+a:link {color: #7d7d3d; text-decoration: none;}
+a:active {text-decoration: none; color: #64643d}
+a:visited {color: #7d7d3d; text-decoration: none} 
+a:hover {text-decoration: none; color: #505029}
+a:visited:hover {text-decoration: none; color: #505029}
+
+--> </style>
+
+</head>
+
+<table cellspacing="0" cellpadding="3">
+	<tr>
+		<td COLSPAN=3>
+			<img SRC="the_fay_lab.jpg" width=743 height=89>
+			<HR align="left" width="100%" size="1">
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5" color=#64643d><strong><a href="index.html">Home</a></strong></font></td>
+		<td width=1 bgcolor=#ffffff ></td>
+		<td width=500 bgcolor=#ffffff colspan=1 rowspan=7 valign=top>
+		<br>
+		<table cellpadding="5" width=100%>
+			<tr>
+				<td align=center colspan=3>
+				<img SRC="faylabgroup.jpg"><br>The Fay lab 2014</td>
+			</tr>
+			<tr> <td colspan=3> <HR width=100% color=#64643d> </td></tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="linda.jpg"><br>
+				Linda Riles <br>Emeritus<br>Technician</td>
+				<td align="center" width=33%>
+				<img SRC="katieR.jpg"><br>
+				Katie Reed <br> Graduate student<br>EEPB</td>
+				<td align="center" width=33%>
+				<img SRC="Andrew.jpg"><br>
+				Andrew Bergen <br> Graduate student<br>MGG</td>
+			</tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="ping.jpg"><br>
+				Ping Liu <br> Technician<br>&nbsp</td>
+				<td align="center" width=33%>
+				<img SRC="xueying.jpg"><br>
+				Xueying Li <br> Graduate student<br>MGG</td>
+				<td align="center" width=33%>
+				<img SRC="gerilyn.jpg"><br>
+				Gerilyn Olsen <br> Undergraduate<br>&nbsp</td>
+			</tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="ching-hua.jpg"><br>
+				Ching-Hua Shih <br> Postdoc<br>&nbsp</td>
+				<td align="center" width=33%>
+				<img SRC="richa.jpg"><br>
+				Richa Thakur <br> Undergraduate<br>&nbsp</td>
+			</tr>
+			<tr> <td colspan=3> <HR width=100% color=#64643d> </td></tr>
+			<td align="center" colspan=3>
+			<strong>Former Lab Members</strong></td>
+			</tr>
+			<tr> <td colspan=3> <HR width=100% color=#64643d> </td></tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="katie.jpg"><br>
+				Katie Hyma <br> EEPB<br></td>
+				<td align="center" width=33%>
+				<img SRC="scott.jpg"><br>
+				Scott Doniger <br> CSB<br></td>
+				<td align="center" width=33%>
+				<img SRC="betsy.jpg"><br>
+				Betsy Engle <br> MGG<br></td>
+			</tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="hyun.jpg"><br>
+				Hyun Seok Kim <br> CSB<br></td>
+				<td align="center" width=33%>
+				<img SRC="devi.jpg"><br>
+				Devi Swain Lenz <br> MGG<br></td>
+				<td align="center" width=33%>
+				<img SRC="sung.jpg"><br>
+				Sung Chun <br> CSB<br></td>
+			</tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="sandeep.jpg"><br>
+				Sandeep Venkatarum <br> Undergraduate<br></td>
+				<td align="center" width=33%>
+				<img SRC="an.jpg"><br>
+				An Tyrrell <br> Undergraduate<br></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5" color=#64643d><strong><a href="research.html">Research</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="people.html">People</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="pubs.html">Publications</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="data.html">Data</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+                <td bgcolor=#ffffff height=50 width="23%" align="center">
+                        <font size="5"><strong><a href="software.html">Software</a></strong></font></td>
+                <td bgcolor=#ffffff></td>
+        </tr>
+	<tr>
+		<td bgcolor=#ffffff width="23%" align="center"></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6777488-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
