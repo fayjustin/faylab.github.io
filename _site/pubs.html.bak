@@ -1,0 +1,220 @@
+<html>
+<head>
+
+<title>Fay Lab Homepage</title>
+
+<style type="text/css"> <!--
+
+BODY {font-size: 14pt; color: black}
+a:link {color: #7d7d3d; text-decoration: none;}
+a:active {text-decoration: none; color: #64643d}
+a:visited {color: #7d7d3d; text-decoration: none} 
+a:hover {text-decoration: none; color: #505029}
+a:visited:hover {text-decoration: none; color: #505029}
+
+--> </style>
+
+</head>
+<table cellspacing="0" cellpadding="3">
+	<tr>
+		<td colspan=3>
+			<img SRC="the_fay_lab.jpg" width=743 height=89>
+			<HR align="left" width="100%" size="1"></td>
+		<td ></td>
+		<td ></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5" color=#64643d><strong><a href="index.html">Home</a></strong></font></td>
+		<td width=10 bgcolor=#ffffff ></td>
+		<td width=500 bgcolor=#ffffff colspan=1 rowspan=7 valign=top>
+			
+			<table>
+			
+			<tr><a href="http://scholar.google.com/citations?user=ErLuoKQAAAAJ">
+			Google Scholar Profile</a></tr>
+			<tr>
+				<td width=25 valign=top><strong>2014</strong><br></td>
+			<td width=25></td>
+			<td>
+			Swain Lenz D, Riles L and Fay JC. Heterochronic meiotic misexpression in an interspecific yeast hybrid. <i>Mol Biol Evol</i> <b></b>in press.<a href="swain14.pdf"> pdf</a><br><br>
+			</td></tr>
+			<tr>
+				<td width=25 valign=top><strong>2013</strong><br></td>
+			<td width=25></td>
+			<td>
+			Chun S, Plunkett J, Teramo K, Muglia LJ and Fay JC. Fine-mapping an association of FSHR with preterm birth in a Finnish population. <i>PLoS ONE</i> <b>8</b>: e78032.<a href="chun13.pdf"> pdf</a><br><br>
+			Cromie GA, Hyma KE, Ludlow CL, Garmendia-Torre C et al. Genomic sequence diversity and population structure of Saccharomyces cerevisiae assessed by RAD-seq. <i>G3 (Bethesda)</i> <b>3</b>: 2163-2171.<a href="cromie13.pdf"> pdf</a><br><br>
+			Fay JC. The molecular basis of phenotypic variation in yeast. <i>Curr Opin Genet Dev</i> <b>23</b>: 672-7.<a href="fay13b.pdf"> pdf</a><br><br>
+			Fay JC. Disease consequences of human adaptation. <i>Applied & Translational Genomics</i> <b>2</b>: 42-7.<a href="fay13a.pdf"> pdf</a><br><br>
+			Hyma KE and Fay JC. Mixing of vineyard and oak-tree ecotypes of Saccharomyces cerevisiae in North American vineyards. <i>Mol Ecol</i> <b>22</b>: 2917-30.<a href="hyma13.pdf"> pdf</a><br><br>
+			Engle EK and Fay JC. ZRT1 harbors an excess of nonsynonymous polymorphism and shows evidence of balancing selection in Saccharomyces cerevisiae. <i>G3 (Bethesda)</i> <b>3</b>: 665-73.<a href="engle13.pdf"> pdf</a><br><br>
+			</td></tr>
+			<tr>
+			<tr>
+			<td width=25 valign=top><strong>2012</strong><br></td>
+			<td width=25></td>
+			<td>
+			Kim HS, Huh J, Riles L, Reyes A and Fay JC. A noncomplementation screen for quantitative trait alleles in Saccharomyces cerevisiae. <i>G3 (Bethesda)</i> <b>2</b>: 753-60.<a href="kim12.pdf"> pdf</a><br><br>
+			Engle EK and Fay JC. Divergence of the yeast transcription factor FZF1 affects sulfite resistance. <i>PLoS Genet</i> <b>8</b>: e1002763.<a href="engle12.pdf"> pdf</a><br><br>
+			</td></tr>
+ 			<tr>
+			<tr>
+			<td width=25 valign=top><strong>2011</strong><br></td>
+			<td width=25></td>
+			<td>
+			Hyma KE and Fay JC. Divergence in wine characteristics produced by wild and domesticated strains of Saccharomyces cerevisiae. <i>FEMS Yeast Res</i> <b>11</b>: 540-51.<a href="hyma11.pdf"> pdf</a><br><br>
+                        Fay JC. Weighing evidence for adaptation at the molecular level. <i>Trends Genet</i> <b>27</b>: 343-9.<a href="fay11.pdf"> pdf</a><br><br>
+                        Chun S and Fay JC. Evidence for hitchhiking of deleterious mutations within the human genome. <i>PLoS Genet</i> <b>7</b>: e1002240.<a href="chun11.pdf"> pdf</a><br><br>
+			Plunkett J, Doniger S, Orabona G, Morgan T et al. An evolutionary genomic approach to identify genes involved in human birth timing. <i>PLoS Genet</i> <b>7</b>: e1001365.<a href="plunkett11.pdf"> pdf</a><br><br>
+                        </td></tr>
+                        <tr>
+                        <tr>
+			<td width=25 valign=top><strong>2010</strong><br></td>
+                        <td width=25></td>
+                        <td>
+			Plunkett J, Doniger S, Morgan T, Haataja R et al. Primate-specific evolution of noncoding element insertion into PLA2G4C and human preterm birth. <i>BMC Med Genomics</i> <b>3</b>: 62.<a href="plunkett10.pdf"> pdf</a><br><br>
+                        Venkataram S and Fay JC. Is transcription factor binding site turnover a sufficient explanation for cis-regulatory sequence divergence? <i>Genome Biol Evol</i> <b>2</b>: 851-8.<a href="venkataram10.pdf"> pdf</a><br><br>
+                        </td></tr>
+                        <tr>
+			<tr>
+			<td width=25 valign=top><strong>2009</strong><br></td>
+                        <td width=25></td>
+                        <td>
+			Chun S and Fay JC. Identification of deleterious mutations within three human genomes. <i> Genome Research</i> <b>19</b>: 1553-1561. <a href="chun09.pdf"> pdf</a><br><a href="lrt_query.html">Likelihood Ratio Test webserver</a><br><br>
+			Kim HS and Fay JC. A combined cross analysis reveals genes with drug-specific and background-dependent effects on drug-sensitivity in Saccharomyces cerevisiae. <i>Genetics</i> <b>183</b>: 1141-51. <a href="kim09b.pdf"> pdf</a><br><br>
+                        Kim HS, Huh J and Fay JC. Dissecting the pleiotropic consequences of a quantitative trait nucleotide. <i>FEMS Yeast Res</i> <B>9</B>: 713-722.<a href="kim09a.pdf"> pdf</a><br><br>
+                        </td></tr>
+                        <tr>
+                        <tr>
+                        <td width=25 valign=top><strong>2008</strong><br></td>
+                        <td width=25></td>
+			<td>
+			Doniger SW, Kim HS, Swain D, Corcuera D et al. A catalog of neutral and deleterious polymorphism in yeast. <i> PLoS Genetics</i> <B>4</B>: e1000183.
+<a href="doniger08.pdf">pdf</a><br><br>
+			Fay JC and Wittkopp PJ. Evaluating the role of natural selection in the evolution of gene regulation. <i>Heredity </i> <B>100</B>: 191-9. <a href="faywittkopp07.pdf">pdf</a><br><br>
+			</td></tr>
+			<tr>
+			<tr>
+                        <td width=25 valign=top><strong>2007</strong><br></td>
+                        <td width=25></td>
+			<td>
+			Kim HS and Fay JC. Genetic variation in the cysteine biosynthesis pathway causes sensitivity to pharmacological compounds. <i> Proc Natl Acad Sci U S A </i> <B>104</B>: 19387-91. <a href="kimfay07.pdf">pdf</a><br><br>
+			Doniger SW and Fay JC. Frequent gain and loss of functional transcription factor binding sites. <i> PLoS Comput Biol </i> <B>3</B>: e99. <a href="donigerfay07.pdf">pdf</a><br><br>
+			</td></tr>
+			<tr>
+                        <td width=25 valign=top><strong>2006</strong><br></td>
+                        <td width=25></td>
+                        <td> Fay JC and Kruglyak L. A white paper for sequencing multiple strains of Saccharomyces cerevisiae. <a href="white_fay_kruglyak.pdf">pdf</a><br><br>
+			</td></tr>	
+			<tr>
+			<td width=25 valign=top><strong>2005</strong><br></td>
+			<td width=25></td>
+			<td> 
+			Fay JC and Benavides JA. Hypervariable noncoding sequences in Saccharomyces cerevisiae. <i> Genetics </i> <B>170</B>: 1575-87. <a href="faybenavides05b.pdf">pdf</a><br><br>
+			Fay JC and Benavides JA. Evidence for domesticated and wild populations of Saccharomyces cerevisiae. <i> PLoS Genetics </i> <B>1</B>: 66-71. <a href="faybenavides05a.pdf">pdf</a><br><br>
+			Fay JC and Wu C-I. Detecting hitchhiking from patterns of DNA polymorphism. In <i>Selective sweeps</i>, Nurminsky, D., ed. Landes Biosciences, Georgetown, Texas. <a href="faywu05.pdf">pdf</a><br><br>
+			Doniger SW, Huh J and Fay JC. Identification of functional transcription factor binding sites using closely related Saccharomyces species. <i> Genome Research </i> <B>15</B>: 701-709.
+			<a href="doniger05.pdf">pdf</a><br><br></td></tr>
+
+			<tr>
+			<td width=25 valign=top><strong>2004</strong><br></td>
+			<td width=25></td>
+			<td> Fay JC, McCullough HL, Sniegowski PD and Eisen MB. Population genetic variation in gene expression is associated with phenotypic variation in Saccharomyces cerevisiae. <i> Genome Biology</i> <B>5</B>: R26. 
+			<a href="fayetal04.pdf">pdf</a><br><br></td></tr>
+			
+			
+			<tr>
+			<td width=25 valign=top><strong>2003</strong><br></td>
+			<td width=25></td>
+			<td> Fay JC and Wu C-I. Sequence divergence, functional constraint and selection 
+			in protein evolution. <i> Annu Rev Genomics Hum Genet</i> <B>3</B>: 213-235.
+			<a href="faywu03.pdf">pdf</a><br><br></td></tr>
+
+			<tr>
+			<td width=25 valign=top>
+			<strong>2002</strong><br></td>
+			<td width=25></td>
+			<td>
+			Fay JC, Wyckoff GJ and Wu C-I. Testing the neutral theory of molecular 
+			evolution with genomic data from Drosophila. <i> Nature </i><B>415</B>: 1024-1026. 
+			<a href="faywyckoffwu02.pdf">pdf</a><br><br></td></tr>
+
+			<tr>
+			<td width=25 valign=top>
+			<strong>2001</strong><br></td>
+			<td width=25></td>
+			<td> 
+			Fay JC and Wu C-I. The neutral theory in the genomic era. 
+			<i>Curr Opin Genet Dev</i> <B>11</B>: 642-646. <font color="#888888"><a href="faywu01.pdf">pdf</a></font></B><br><br>
+			Fay JC, Wyckoff GJ and Wu C-I. Positive and negative selection on the human genome. <i>Genetics</i> 
+			<B>155</B>: 1227-1234. <a href="faywyckoffwu01.pdf">pdf</a> <a href="supp.html">supplement</a><br><br></td></tr>
+			
+			<tr>
+			<td width=25 valign=top>
+			<strong>2000</strong><br></td>
+			<td width=25></td>
+			<td>
+			Fay JC and Wu C-I.  Hitchhiking under positive Darwinian selection. 
+			<i>Genetics</i> <B>155</B>: 1405-1413. <a href="faywu00.pdf">pdf</a> <a href="appendix.html">appendix</a><br><br></td></tr>
+			
+			<tr>
+			<td width=25 valign=top>
+			<strong>1999</strong><br><br></td>
+			<td width=25></td>
+			<td>Fay JC and Wu C-I.  A human population bottleneck can account for the 
+			discordance between patterns of mitochondrial and nuclear DNA variation. <i>Mol Biol Evol</i> <B>16</B>: 1003-1005. 
+			<a href="faywu99.pdf">pdf</a><br><br></td></tr>
+			
+			<tr>
+			<td width=25 valign=top>
+			<strong>1997</strong><br><br></td>
+			<td width=25></td>
+			<td>Fay JC and Fry WE.  Effects of hot and cold temperatures on the survival of oospores produced 
+			by United States strains of <I>Phytophthora infestans</I>. <i>American Potato Journal</i> <B>74</B>: 315-323.<br><br></td></tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5" color=#64643d><strong><a href="research.html">Research</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="people.html">People</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="pubs.html">Publications</a></strong></font>
+			</td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="data.html">Data</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+        <tr>
+                <td bgcolor=#ffffff height=50 width="23%" align="center">
+                        <font size="5"><strong><a href="software.html">Software</a></strong></font></td>
+                <td bgcolor=#ffffff></td>
+        </tr>
+	<tr>
+		<td bgcolor=#ffffff width="23%" align="center"></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6777488-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

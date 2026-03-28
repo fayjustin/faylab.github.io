@@ -1,0 +1,86 @@
+<html>
+<head>
+
+<title>Fay Lab Homepage</title>
+
+<style type="text/css"> <!--
+
+BODY {font-size: 14pt; color: black}
+a:link {color: #7d7d3d; text-decoration: none;}
+a:active {text-decoration: none; color: #64643d}
+a:visited {color: #7d7d3d; text-decoration: none} 
+a:hover {text-decoration: none; color: #505029}
+a:visited:hover {text-decoration: none; color: #505029}
+
+--> </style>
+
+</head>
+
+<table cellspacing="0" cellpadding="3">
+	<tr>
+		<td COLSPAN=3>
+			<img SRC="the_fay_lab.jpg" width=743 height=89>
+			<HR align="left" width="100%" size="1">
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5" color=#64643d><strong><a href="index.html">Home</a></strong></font></td>
+		<td width=10 bgcolor=#ffffff ></td>
+		<td width=500 bgcolor=#ffffff colspan=1 rowspan=7 valign=top><span style="font-weight: bold;">Research interests</span><br>
+		<div style="margin-left: 40px;">We are broadly interested in the genetic basis of evolutionary change and specifically interested in the role of changes in gene regulation. We combine analysis of gene expression with population genetic and molecular evolution models to understand when changes in cis-regulatory sequences matter. In yeast we study diversification of Saccharomyces species and differentiation of wild and domesticated strains of S. cerevisiae (Baker's or Brewer's yeast). In humans we study the genetic basis of preterm birth. Our goal is to understand how these systems evolve.<br></div>
+		<span style="font-weight: bold;">Research projects</span><br>
+		<div style="margin-left: 40px;">
+<i>Transcriptional dynamics</i>:
+Most cis-regulatory sequences are defined by expression levels (on/off) or expression patterns (e.g. developmental stage). However, cis-regulatory sequences may also control transcriptional dynamics, for example how long it takes to activate a gene. We are currently investigating mutations that alter transcriptional dynamics and their phenotypic consequences using allele-specific expression and fitness assays.
+<br><br>
+<i>Domestication and diversification of yeast</i>:
+Yeast has evolved the amazing ability to ferment sugar in the presence of oxygen, providing us with beer, bread and wine. While this fermentative lifestyle is not unique to S. cerevisiae, S. cerevisiae is the predominate species used for the production of fermented foods and beverages. One characteristic unique to S. cerevisiae is that it consistently outcompetes other microbes during wine fermentations. We are interested in which genes and what genetic changes lead to S. cerevisiae's unique characteristics and its widespread use for fermentation.
+<br><br>
+<i>Preterm birth</i>:
+Despite the importance of delivering at the right time, we still do not understand what causes women to go into labor. In mice, labor is induced by loss of the hormone progesterone. However in humans progesterone levels remain high at the onset of labor. There is also reason to believe that the timing of birth has changed along the human lineage. Human neonates are more atricial than other primates. Furthermore, the increase in human brain size along with a more narrow pelvis to facilitate bipedal locomotion has made labor and delivery in humans much more difficult relative to other primates. One hypothesis to explain these observations is that humans have evolved to give birth at an earlier time of development to facilitate labor and deliver. In collaboration with Lou Muglia and others, we are working to identify genetic factors that cause women to go into labor and how parturition has evolved in primates.
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5" color=#64643d><strong><a href="research.html">Research</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="people.html">People</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="pubs.html">Publications</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+		<td bgcolor=#ffffff height=50 width="23%" align="center">
+			<font size="5"><strong><a href="data.html">Data</a></strong></font></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+	<tr>
+                <td bgcolor=#ffffff height=50 width="23%" align="center">
+                        <font size="5"><strong><a href="software.html">Software</a></strong></font></td>
+                <td bgcolor=#ffffff></td>
+        </tr>
+	<tr>
+		<td bgcolor=#ffffff width="23%" align="center"></td>
+		<td bgcolor=#ffffff></td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6777488-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

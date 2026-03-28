@@ -16,11 +16,11 @@ a:visited:hover {text-decoration: none; color: #505029}
 
 </head>
 
-<table cellspacing="0" cellpadding="3" style="margin: 0 auto; width: 1000px;">
+<table cellspacing="0" cellpadding="3">
 	<tr>
-		<td COLSPAN=3 align="center">
+		<td COLSPAN=3>
 			<img SRC="the_fay_lab.jpg" width=743 height=89>
-			<HR width="100%" size="1">
+			<HR align="left" width="100%" size="1">
 		</td>
 	</tr>
 	<tr>
@@ -30,30 +30,76 @@ a:visited:hover {text-decoration: none; color: #505029}
 		<td width=500 bgcolor=#ffffff colspan=1 rowspan=7 valign=top>
 		<br>
 		<table cellpadding="5" width=100%>
-			
+			<tr>
+				<td align=center colspan=3>
+				<img SRC="faylabgroup.jpg"><br>The Fay lab 2014</td>
+			</tr>
 			<tr> <td colspan=3> <HR width=100% color=#64643d> </td></tr>
 			<tr>
 				<td align="center" width=33%>
-				<img SRC="yeast.png"><br>
-				Justin Fay <br>PI</td>
+				<img SRC="linda.jpg"><br>
+				Linda Riles <br>Emeritus<br>Technician</td>
 				<td align="center" width=33%>
-				<img SRC="yeast.png"><br>
-				Nasima Akhter <br> CDM Graduate student</td>
+				<img SRC="katieR.jpg"><br>
+				Katie Reed <br> Graduate student<br>EEPB</td>
 				<td align="center" width=33%>
-				<img SRC="yeast.png"><br>
-				James Miller <br> Technician<br></td>
+				<img SRC="Andrew.jpg"><br>
+				Andrew Bergen <br> Graduate student<br>MGG</td>
 			</tr>
 			<tr>
 				<td align="center" width=33%>
-				<img SRC="yeast.png"><br>
-				Lydia <br> RA<br></td>
+				<img SRC="ping.jpg"><br>
+				Ping Liu <br> Technician<br>&nbsp</td>
 				<td align="center" width=33%>
-				
+				<img SRC="xueying.jpg"><br>
+				Xueying Li <br> Graduate student<br>MGG</td>
+				<td align="center" width=33%>
+				<img SRC="gerilyn.jpg"><br>
+				Gerilyn Olsen <br> Undergraduate<br>&nbsp</td>
 			</tr>
-			
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="ching-hua.jpg"><br>
+				Ching-Hua Shih <br> Postdoc<br>&nbsp</td>
+				<td align="center" width=33%>
+				<img SRC="richa.jpg"><br>
+				Richa Thakur <br> Undergraduate<br>&nbsp</td>
+			</tr>
 			<tr> <td colspan=3> <HR width=100% color=#64643d> </td></tr>
 			<td align="center" colspan=3>
-			
+			<strong>Former Lab Members</strong></td>
+			</tr>
+			<tr> <td colspan=3> <HR width=100% color=#64643d> </td></tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="katie.jpg"><br>
+				Katie Hyma <br> EEPB<br></td>
+				<td align="center" width=33%>
+				<img SRC="scott.jpg"><br>
+				Scott Doniger <br> CSB<br></td>
+				<td align="center" width=33%>
+				<img SRC="betsy.jpg"><br>
+				Betsy Engle <br> MGG<br></td>
+			</tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="hyun.jpg"><br>
+				Hyun Seok Kim <br> CSB<br></td>
+				<td align="center" width=33%>
+				<img SRC="devi.jpg"><br>
+				Devi Swain Lenz <br> MGG<br></td>
+				<td align="center" width=33%>
+				<img SRC="sung.jpg"><br>
+				Sung Chun <br> CSB<br></td>
+			</tr>
+			<tr>
+				<td align="center" width=33%>
+				<img SRC="sandeep.jpg"><br>
+				Sandeep Venkatarum <br> Undergraduate<br></td>
+				<td align="center" width=33%>
+				<img SRC="an.jpg"><br>
+				An Tyrrell <br> Undergraduate<br></td>
+			</tr>
 		</table>
 		</td>
 	</tr>
